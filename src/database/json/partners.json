@@ -1,0 +1,22 @@
+{
+  "partners": [
+    {
+      "code": "293987823639",
+      "icon": "....",
+      "ownerID": "399570283515871233",
+      "serverName": "Deneme",
+      "website": "discordev.xyz",
+      "background": "Jdjsnsjs",
+      "description": "Denemet amaçlı"
+    },
+    {
+      "code": "342675248924",
+      "icon": "https://images-ext-1.discordapp.net/external/tYUgkmRe7LX4nx-iBqRe1BuK6b7H4XYO1qbbAmgaf-A/https/cdn.discordapp.com/avatars/852630923332681768/a_e98c33501bebac025d7d04923c94125d.gif",
+      "ownerID": "852630923332681768",
+      "serverName": "Wum",
+      "website": "https://discordevs.xyz",
+      "background": "https://cdn.discordapp.com/attachments/944583684567212132/945776985932705892/unknown-40.png",
+      "description": "Wum owner bro"
+    }
+  ]
+}
